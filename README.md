@@ -41,3 +41,6 @@ to discuss what you would like to change.
 - Please make sure to update tests as appropriate.
 ## IV. Disclaimer
 - There is no clean code, no penetration test provided, this repo is only for educational purposes. If you got trouble with this, please contact me.
+## Support me (optional)
+If you find it useful, you can support me with a cup of coffee.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2123O0D)
