@@ -34,13 +34,8 @@ Run notepad.exe connection will be established to remote server, run any command
 
 ![plot](./images/viruscpp.png)
 
-## III. Contributing
-
-- Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-- Please make sure to update tests as appropriate.
-## IV. Disclaimer
-- There is no clean code, no penetration test provided, this repo is only for educational purposes. If you got trouble with this, please contact me.
+> [!CAUTION]
+- There is no clean code, no penetration test provided, this repo is for educational purposes only. Do not use for illegal purposes. I'm never responsible for illegal use. Educational purpose only!
 ## Support me (optional)
 If you find it useful, you can support me with a cup of coffee.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2123O0D)
