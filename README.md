@@ -1,6 +1,6 @@
 # Interative ReverseShell bypass Microsoft Window Defender
 
-A simple ReverseShell written in C++, and listening server written in Python
+A simple ReverseShell written in C++, and listening server written in Python. It is not detected by MDE (tested on 8/20/2024 : Windows 10 22H2 latest)
 
 ## I. Installation
 
